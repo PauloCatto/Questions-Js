@@ -4,7 +4,7 @@
 https://paulocatto.github.io/Questions-Js/
 <br>
 <hr>
-Esse é um exercicio proposto durante aula do curso de Analise e Desenvolvimento de Sistemas. A idéia é solicitar os dados da Api e tratá-los.
+Esse é um exercicio proposto durante aula da Graduação em Analise e Desenvolvimento de Sistemas. A idéia é solicitar os dados da Api e tratá-los.
 Os dados são solicitados de uma api e tratados em tela simples, com inputs checkbox, onde o usuario seleciona a alternativa correta. Após selecionar uma opção, o botão enviar resposta fica visivel e abaixo aparece para o usuario se a alternativa estava certa ou errada, 2 segundos depois o usuario tem a opção de tentar novamente.
 
 
